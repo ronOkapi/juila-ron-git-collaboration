@@ -1,3 +1,7 @@
 Username: ronOkapi
 Name: Ron 
 Email: ron.svanfeldt@axxell.fi
+
+Username: JuliaCapy
+Name: Julia
+Email: julia.lundberg@axxell.fi
